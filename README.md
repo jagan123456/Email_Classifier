@@ -1,5 +1,5 @@
-# Udacity_ML
+# Email_Classifier
 
-These are the scripts that I have been working on as part of the Udacity Machine Learning course I am taking (co-sponsored by Kaggle).
+This is an email classifier written as part of the Udacity Machine Learning Nanodegree course.
 
 They are written in Python 2.7 using Jupyter Notebooks.
